@@ -1,3 +1,10 @@
 Finetune/immich_downloads/
 Finetune/.venv/
 Finetune/dataset/augmented_images/
+Finetune/two_head_runs/
+*.so
+*.pt
+*.safetensors
+*.bin
+*.ckpt
+*.log
